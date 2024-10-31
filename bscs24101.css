@@ -1,0 +1,14 @@
+.underline-heading{
+    text-decoration: underline;
+}
+
+.first-div {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(53, 137, 165); 
+    border-width: 3px;
+    border-color: darkblue; 
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+}
